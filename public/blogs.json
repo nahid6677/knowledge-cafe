@@ -3,45 +3,50 @@
       "id": 1,
       "cover_img": "https://i.ibb.co.com/gM8K546/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
       "title": "The Art of Coding",
+      "author_name":"Kabir Hossin",
       "author_img": "https://i.ibb.co.com/bXcnhhj/woman-enjoying-reading-cafe.jpg",
       "posted_date": "2023-10-20",
-      "reading_time": "5 min read",
+      "reading_time": "5",
       "hashtags": ["#coding", "#development", "#programming"]
     },
     {
       "id": 2,
       "cover_img": "https://i.ibb.co.com/Hg5pd7S/flat-lay-desktop-with-notebook-pizza.jpg",
       "title": "Understanding JavaScript Closures",
+      "author_name":"Sakib Hossin",
       "author_img": "https://i.ibb.co.com/fC3SY3Q/front-view-serious-office-worker-sitting-table.jpg",
       "posted_date": "2023-09-15",
-      "reading_time": "7 min read",
+      "reading_time": "7",
       "hashtags": ["#javascript", "#webdev", "#closures"]
     },
     {
       "id": 3,
       "cover_img": "https://i.ibb.co.com/tDHCsMD/toy-bricks-table-with-word-my-blog.jpg",
       "title": "A Guide to Responsive Design",
+      "author_name":"Kabir Hossin",
       "author_img": " https://i.ibb.co.com/ByZTF2y/artist-girl-holding-canvas-looks-thoughtful-uninspired.jpg",
       "posted_date": "2023-08-10",
-      "reading_time": "8 min read",
+      "reading_time": "8",
       "hashtags": ["#responsive", "#css", "#design"]
     },
     {
       "id": 4,
       "cover_img": "https://i.ibb.co.com/VDHJbkk/create-your-own-brand-words-woman-working-laptop-background.jpg",
       "title": "Building Your First React App",
+      "author_name":"Kasmot Ali",
       "author_img": "https://i.ibb.co.com/fC3SY3Q/front-view-serious-office-worker-sitting-table.jpg",
       "posted_date": "2023-07-05",
-      "reading_time": "10 min read",
+      "reading_time": "10",
       "hashtags": ["#react", "#frontend", "#javascript"]
     },
     {
       "id": 5,
       "cover_img": "https://i.ibb.co.com/tDHCsMD/toy-bricks-table-with-word-my-blog.jpg",
       "title": "Exploring Python's Data Science Libraries",
+      "author_name":"Kasem Hossin",
       "author_img": "https://i.ibb.co.com/bXcnhhj/woman-enjoying-reading-cafe.jpg",
       "posted_date": "2023-06-22",
-      "reading_time": "6 min read",
+      "reading_time": "6",
       "hashtags": ["#python", "#datascience", "#libraries"]
     }
   ]
